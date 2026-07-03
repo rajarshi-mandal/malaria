@@ -37,9 +37,9 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-### Single-threaded execution (important)
+### Single-threaded execution
 
-Run all heavy jobs single-threaded. This is both **faster** for this workload
+Run all heavy jobs single-threaded. This is both faster for this workload
 (many small operations; numba provides the speedup) and
 **avoids an OpenMP/MKL deadlock** observed on some CPUs. Each script also calls
 `torch.set_num_threads(1)` internally.
@@ -48,7 +48,7 @@ Run all heavy jobs single-threaded. This is both **faster** for this workload
 export OMP_NUM_THREADS=1 MKL_NUM_THREADS=1     # PowerShell: $env:OMP_NUM_THREADS=1; $env:MKL_NUM_THREADS=1
 ```
 
-To use additional cores, run several scripts **as separate single-threaded
+To use additional cores, run several scripts as **separate single-threaded
 processes** rather than increasing the thread count within one process.
 
 ---
