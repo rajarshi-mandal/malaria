@@ -1,0 +1,12 @@
+Dimension,Code,Title,ParentDimension,ParentCode,ParentTitle
+GHO,MALARIA_CONF_CASES,Number of confirmed malaria cases,,,
+GHO,MALARIA_EST_INCIDENCE,Estimated malaria incidence (per 1000 population at risk),,,
+GHO,MALARIA_EST_MORTALITY,Estimated malaria mortality rate (per 100 000 population),,,
+GHO,MALARIA_IMPORTED,Number of imported malaria cases,,,
+GHO,MALARIA_INDIG,Number of indigenous malaria cases,,,
+GHO,MALARIA_PF_INDIG,Number of indigenous P. falciparum malaria cases,,,
+GHO,MALARIA_PRES_CASES,Number of presumed malaria cases,,,
+GHO,MALARIA_PV_INDIG,Number of indigenous P. vivax malaria cases,,,
+GHO,MALARIA_TOTAL_CASES,Total number of  malaria cases (presumed + confirmed cases),,,
+GHO,MALARIA002,Estimated number of malaria cases  (see MALARIA_EST_CASES),,,
+GHO,MALARIA003,Estimated number of malaria deaths (see MALARIA_EST_DEATHS),,,

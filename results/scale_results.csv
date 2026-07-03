@@ -1,0 +1,4 @@
+N,baseline,static_red,ppo_red,ppo_beats_static_pct,train_time_s,calib_time_s
+8,2.168,35.1,36.5,93,171,7
+20,1.925,35.3,34.9,13,373,18
+50,1.851,34.1,33.9,33,914,43

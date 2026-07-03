@@ -1,0 +1,860 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,FactValueNumeric,Value,Language,DateModified
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2023,TRUE,1003373,1 003 373,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2023,TRUE,1151739,1 151 739,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2023,TRUE,1155691,1 155 691,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2023,TRUE,1197321,1 197 321,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2023,TRUE,1248412,1 248 412,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BRA,Brazil,Year,2023,TRUE,1407046,1 407 046,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2023,TRUE,1544769,1 544 769,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2023,TRUE,1645842,1 645 842,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2023,TRUE,1751942,1 751 942,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2023,TRUE,1760470,1 760 470,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2023,TRUE,10854561,10 854 561,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2023,TRUE,10862902,10 862 902,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2023,TRUE,11738218,11 738 218,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2023,TRUE,11949730,11 949 730,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2023,TRUE,120395,120 395,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,GUY,Guyana,Year,2023,TRUE,125930,125 930,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2023,TRUE,13905437,13 905 437,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2023,TRUE,134566,134 566,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2023,TRUE,149975,149 975,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2023,TRUE,15265405,15 265 405,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2023,TRUE,15819400,15 819 400,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2023,TRUE,15855,15 855,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2023,TRUE,15879,15 879,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2023,TRUE,15965481,15 965 481,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2023,TRUE,150425,150 425,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,HTI,Haiti,Year,2023,TRUE,157340,157 340,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2023,TRUE,16885,16 885,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,IND,India,Year,2023,TRUE,164949610,164 949 610,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2023,TRUE,17073745,17 073 745,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2023,TRUE,19410521,19 410 521,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2023,TRUE,191823,191 823,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,HND,Honduras,Year,2023,TRUE,194506,194 506,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2023,TRUE,197270,197 270,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2023,TRUE,2118727,2 118 727,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2023,TRUE,2700365,2 700 365,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2023,TRUE,2793655,2 793 655,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COM,Comoros,Year,2023,TRUE,201781,201 781,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2023,TRUE,208456,208 456,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2023,TRUE,209135,209 135,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2023,TRUE,21239449,21 239 449,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2023,TRUE,21599012,21 599 012,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,SUR,Suriname,Year,2023,TRUE,21713,21 713,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2023,TRUE,229918,229 918,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BLZ,Belize,Year,2023,TRUE,23163,23 163,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2023,TRUE,25945411,25 945 411,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2023,TRUE,26409,26 409,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2023,TRUE,28323479,28 323 479,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2023,TRUE,28369,28 369,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2023,TRUE,3159116,3 159 116,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2023,TRUE,3219405,3 219 405,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2023,TRUE,3310497,3 310 497,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2023,TRUE,3468250,3 468 250,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2023,TRUE,3825451,3 825 451,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2023,TRUE,3972044,3 972 044,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,COL,Colombia,Year,2023,TRUE,304207,304 207,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2023,TRUE,327780,327 780,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2023,TRUE,330488,330 488,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2023,TRUE,334205,334 205,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,ARG,Argentina,Year,2023,TRUE,337,337,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2023,TRUE,35179110,35 179 110,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2023,TRUE,352760,352 760,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,MEX,Mexico,Year,2023,TRUE,358368,358 368,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2023,TRUE,376483,376 483,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2023,TRUE,4293184,4 293 184,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2023,TRUE,4623872,4 623 872,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2023,TRUE,4850510,4 850 510,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2023,TRUE,40508834,40 508 834,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2023,TRUE,437261,437 261,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2023,TRUE,438177,438 177,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2023,TRUE,46009,46 009,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2023,TRUE,47461,47 461,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2023,TRUE,471293,471 293,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2023,TRUE,5216664,5 216 664,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2023,TRUE,5960194,5 960 194,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2023,TRUE,522151,522 151,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2023,TRUE,56917,56 917,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2023,TRUE,6062334,6 062 334,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,DZA,Algeria,Year,2023,TRUE,6138,6138,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2023,TRUE,68109,68 109,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2023,TRUE,682200,682 200,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2023,TRUE,688629,688 629,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2023,TRUE,747,747,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2023,TRUE,847058,847 058,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2023,TRUE,851074,851 074,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2023,TRUE,853363,853 363,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2023,TRUE,854175,854 175,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2023,TRUE,902309,902 309,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2023,TRUE,935141,935 141,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2023,TRUE,9411,9411,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PAN,Panama,Year,2023,TRUE,97647,97 647,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2022,FALSE,1214098,1 214 098,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BRA,Brazil,Year,2022,FALSE,1391127,1 391 127,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2022,FALSE,1416684,1 416 684,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2022,FALSE,1592228,1 592 228,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2022,FALSE,1616617,1 616 617,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2022,FALSE,1632840,1 632 840,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2022,FALSE,1766390,1 766 390,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2022,FALSE,10246,10 246,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2022,FALSE,10899799,10 899 799,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2022,FALSE,10930585,10 930 585,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2022,FALSE,10946,10 946,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,ARG,Argentina,Year,2022,FALSE,1077,1077,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2022,FALSE,11183,11 183,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,SUR,Suriname,Year,2022,FALSE,11445,11 445,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2022,FALSE,122820,122 820,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,DZA,Algeria,Year,2022,FALSE,1292,1292,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2022,FALSE,13051047,13 051 047,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2022,FALSE,13508830,13 508 830,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2022,FALSE,14378061,14 378 061,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2022,FALSE,15001,15 001,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2022,FALSE,15533289,15 533 289,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,IND,India,Year,2022,FALSE,152523919,152 523 919,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2022,FALSE,155466,155 466,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2022,FALSE,156958,156 958,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2022,FALSE,158244,158 244,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,HND,Honduras,Year,2022,FALSE,159584,159 584,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2022,FALSE,16172933,16 172 933,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2022,FALSE,16376877,16 376 877,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2022,FALSE,166167,166 167,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2022,FALSE,17295,17 295,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2022,FALSE,17324387,17 324 387,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2022,FALSE,19062775,19 062 775,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2022,FALSE,2193851,2 193 851,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2022,FALSE,2660341,2 660 341,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2022,FALSE,2755046,2 755 046,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2022,FALSE,2979539,2 979 539,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2022,FALSE,205333,205 333,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2022,FALSE,213680,213 680,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2022,FALSE,22235,22 235,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,COL,Colombia,Year,2022,FALSE,222903,222 903,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2022,FALSE,228377,228 377,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2022,FALSE,23225280,23 225 280,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,HTI,Haiti,Year,2022,FALSE,230117,230 117,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COM,Comoros,Year,2022,FALSE,233847,233 847,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2022,FALSE,271037,271 037,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PER,Peru,Year,2022,TRUE,279778,279 778,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BLZ,Belize,Year,2022,FALSE,28121,28 121,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2022,FALSE,28641,28 641,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2022,FALSE,290324,290 324,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2022,FALSE,3352129,3 352 129,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2022,FALSE,3395811,3 395 811,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2022,FALSE,3536879,3 536 879,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2022,FALSE,30886839,30 886 839,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2022,FALSE,32983459,32 983 459,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2022,FALSE,348740,348 740,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2022,FALSE,369364,369 364,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2022,FALSE,370891,370 891,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,MEX,Mexico,Year,2022,FALSE,376185,376 185,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2022,FALSE,378989,378 989,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2022,FALSE,39367459,39 367 459,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2022,FALSE,4059542,4 059 542,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2022,FALSE,4248332,4 248 332,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2022,FALSE,4549696,4 549 696,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2022,FALSE,407463,407 463,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2022,FALSE,42205,42 205,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PAN,Panama,Year,2022,FALSE,44785,44 785,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2022,FALSE,444,444,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2022,FALSE,454272,454 272,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2022,FALSE,5117823,5 117 823,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2022,FALSE,5162188,5 162 188,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2022,FALSE,5572383,5 572 383,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2022,FALSE,501423,501 423,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,GUF,French Guiana,Year,2022,TRUE,5322,5322,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2022,FALSE,553872,553 872,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2022,FALSE,604963,604 963,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2022,FALSE,674142,674 142,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2022,FALSE,7546500,7 546 500,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2022,FALSE,7957950,7 957 950,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2022,FALSE,713242,713 242,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2022,FALSE,764822,764 822,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2022,FALSE,77682,77 682,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2022,FALSE,77709,77 709,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2022,FALSE,808827,808 827,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2022,FALSE,823100,823 100,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2022,FALSE,844865,844 865,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2022,FALSE,866447,866 447,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2022,FALSE,9001730,9 001 730,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2022,FALSE,9874633,9 874 633,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,GUY,Guyana,Year,2022,FALSE,93879,93 879,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2022,FALSE,954750,954 750,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2022,FALSE,974311,974 311,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2022,FALSE,985957,985 957,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2021,FALSE,1158806,1 158 806,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BRA,Brazil,Year,2021,FALSE,1234266,1 234 266,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2021,FALSE,1316542,1 316 542,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2021,FALSE,1470849,1 470 849,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2021,FALSE,1473179,1 473 179,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2021,FALSE,1507881,1 507 881,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2021,FALSE,1573986,1 573 986,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2021,FALSE,1958385,1 958 385,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BLZ,Belize,Year,2021,FALSE,10893,10 893,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2021,FALSE,11073,11 073,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,IND,India,Year,2021,FALSE,114400959,114 400 959,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2021,FALSE,12071445,12 071 445,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2021,FALSE,12379963,12 379 963,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2021,FALSE,12383,12 383,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2021,FALSE,12415,12 415,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2021,FALSE,12894,12 894,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2021,FALSE,122955,122 955,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2021,FALSE,13303404,13 303 404,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2021,FALSE,13748015,13 748 015,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2021,FALSE,13957528,13 957 528,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2021,FALSE,139279,139 279,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2021,FALSE,15624710,15 624 710,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2021,FALSE,159912,159 912,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,SUR,Suriname,Year,2021,FALSE,16597,16 597,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2021,FALSE,163496,163 496,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,HND,Honduras,Year,2021,FALSE,165853,165 853,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COM,Comoros,Year,2021,FALSE,168942,168 942,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2021,FALSE,17892801,17 892 801,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PAN,Panama,Year,2021,FALSE,18779,18 779,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2021,FALSE,184862,184 862,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2021,FALSE,19238020,19 238 020,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,HTI,Haiti,Year,2021,FALSE,198881,198 881,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2021,FALSE,2128771,2 128 771,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2021,FALSE,2584679,2 584 679,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2021,FALSE,2632540,2 632 540,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2021,FALSE,20794633,20 794 633,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2021,FALSE,218591,218 591,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2021,FALSE,222002,222 002,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2021,FALSE,229360,229 360,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,COL,Colombia,Year,2021,FALSE,239060,239 060,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2021,FALSE,24748,24 748,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2021,FALSE,25048071,25 048 071,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2021,FALSE,25510,25 510,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2021,FALSE,253419,253 419,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2021,FALSE,263202,263 202,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2021,FALSE,275419,275 419,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2021,FALSE,294,294,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,MEX,Mexico,Year,2021,FALSE,298496,298 496,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2021,FALSE,3069218,3 069 218,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2021,FALSE,3091060,3 091 060,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2021,FALSE,3174623,3 174 623,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2021,FALSE,3965763,3 965 763,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2021,FALSE,30202722,30 202 722,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2021,FALSE,32438379,32 438 379,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2021,FALSE,343054,343 054,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2021,FALSE,369252,369 252,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2021,FALSE,376167,376 167,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2021,FALSE,4038950,4 038 950,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2021,FALSE,4162127,4 162 127,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2021,FALSE,4571944,4 571 944,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2021,FALSE,4924702,4 924 702,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PER,Peru,Year,2021,FALSE,412933,412 933,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2021,FALSE,4327,4327,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,ARG,Argentina,Year,2021,FALSE,439,439,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2021,FALSE,45711,45 711,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2021,FALSE,48139,48 139,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2021,FALSE,5192692,5 192 692,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2021,FALSE,5576953,5 576 953,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2021,FALSE,519557,519 557,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2021,FALSE,593519,593 519,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2021,FALSE,6506016,6 506 016,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2021,FALSE,6716458,6 716 458,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2021,FALSE,600242,600 242,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2021,FALSE,609029,609 029,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2021,FALSE,642818,642 818,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2021,FALSE,643583,643 583,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2021,FALSE,651385,651 385,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2021,FALSE,680386,680 386,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2021,FALSE,7789443,7 789 443,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,DZA,Algeria,Year,2021,FALSE,7220,7220,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2021,FALSE,8145586,8 145 586,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2021,FALSE,832846,832 846,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,GUY,Guyana,Year,2021,FALSE,89809,89 809,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2021,FALSE,9629227,9 629 227,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2021,FALSE,917108,917 108,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2021,FALSE,922001,922 001,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2021,FALSE,96044,96 044,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2021,FALSE,97213,97 213,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2021,FALSE,9825,9825,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BRA,Brazil,Year,2020,FALSE,1232321,1 232 321,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,CHN,China,Year,2020,TRUE,1274340,1 274 340,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2020,FALSE,1280190,1 280 190,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2020,FALSE,1389065,1 389 065,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2020,FALSE,1416473,1 416 473,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2020,FALSE,1589675,1 589 675,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2020,FALSE,1795335,1 795 335,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2020,FALSE,1860018,1 860 018,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2020,FALSE,1940676,1 940 676,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,HND,Honduras,Year,2020,FALSE,10350,10 350,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2020,FALSE,10433887,10 433 887,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BLZ,Belize,Year,2020,FALSE,10711,10 711,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2020,FALSE,103614,103 614,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,DZA,Algeria,Year,2020,FALSE,11197,11 197,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2020,FALSE,11221,11 221,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2020,FALSE,12645404,12 645 404,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,ARM,Armenia,Year,2020,TRUE,121,121,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,ARG,Argentina,Year,2020,FALSE,1268,1268,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2020,FALSE,13989836,13 989 836,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2020,FALSE,136795,136 795,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,SUR,Suriname,Year,2020,FALSE,14057,14 057,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2020,FALSE,14060361,14 060 361,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PAN,Panama,Year,2020,FALSE,14809,14 809,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2020,FALSE,146262,146 262,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2020,FALSE,15357249,15 357 249,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2020,FALSE,15491235,15 491 235,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2020,FALSE,158532,158 532,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2020,TRUE,159124,159 124,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2020,FALSE,160032,160 032,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2020,FALSE,163990,163 990,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COM,Comoros,Year,2020,FALSE,175364,175 364,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2020,TRUE,18717,18 717,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2020,FALSE,18868,18 868,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2020,FALSE,19516184,19 516 184,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2020,FALSE,195365,195 365,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2020,FALSE,2206842,2 206 842,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2020,FALSE,2730158,2 730 158,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2020,FALSE,2908748,2 908 748,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2020,FALSE,2955271,2 955 271,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2020,FALSE,206908,206 908,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,COL,Colombia,Year,2020,FALSE,212399,212 399,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2020,FALSE,22471902,22 471 902,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2020,FALSE,235560,235 560,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,GEO,Georgia,Year,2020,TRUE,237,237,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2020,FALSE,240199,240 199,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,MEX,Mexico,Year,2020,FALSE,242200,242 200,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,HTI,Haiti,Year,2020,FALSE,245202,245 202,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2020,FALSE,258145,258 145,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2020,FALSE,268147,268 147,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2020,FALSE,27370935,27 370 935,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2020,FALSE,27434176,27 434 176,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2020,FALSE,27979,27 979,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2020,FALSE,29362,29 362,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2020,FALSE,3431504,3 431 504,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2020,FALSE,3572587,3 572 587,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2020,FALSE,3665239,3 665 239,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2020,FALSE,3838721,3 838 721,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2020,FALSE,31522,31 522,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2020,FALSE,319660,319 660,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2020,FALSE,32954190,32 954 190,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2020,FALSE,337965,337 965,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2020,FALSE,346565,346 565,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2020,FALSE,357778,357 778,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2020,FALSE,388232,388 232,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2020,FALSE,4382988,4 382 988,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2020,FALSE,4567624,4 567 624,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2020,FALSE,403972,403 972,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2020,FALSE,434,434,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2020,FALSE,4399,4399,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2020,FALSE,537205,537 205,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,TUR,Türkiye,Year,2020,TRUE,54586,54 586,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2020,TRUE,552458,552 458,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2020,FALSE,576026,576 026,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2020,FALSE,59826,59 826,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2020,FALSE,6879911,6 879 911,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,GUF,French Guiana,Year,2020,FALSE,6238,6238,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2020,FALSE,7110541,7 110 541,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2020,FALSE,7172956,7 172 956,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2020,FALSE,7509602,7 509 602,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2020,FALSE,7992806,7 992 806,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2020,TRUE,71887,71 887,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,GUY,Guyana,Year,2020,FALSE,72821,72 821,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2020,FALSE,725591,725 591,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2020,FALSE,7754,7754,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2020,FALSE,790800,790 800,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2020,FALSE,8211933,8 211 933,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2020,FALSE,8571445,8 571 445,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2020,FALSE,800012,800 012,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2020,FALSE,820210,820 210,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2020,FALSE,901799,901 799,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2020,FALSE,9148,9148,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2020,FALSE,943267,943 267,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2020,FALSE,947451,947 451,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,IND,India,Year,2020,FALSE,97177024,97 177 024,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2020,FALSE,98562,98 562,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2019,FALSE,1008487,1 008 487,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2019,FALSE,1029288,1 029 288,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2019,FALSE,1072252,1 072 252,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2019,FALSE,1104736,1 104 736,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2019,FALSE,1118706,1 118 706,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2019,FALSE,1164914,1 164 914,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2019,FALSE,1279574,1 279 574,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2019,FALSE,1283681,1 283 681,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2019,FALSE,1324299,1 324 299,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2019,FALSE,1507230,1 507 230,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BRA,Brazil,Year,2019,FALSE,1591308,1 591 308,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,CHN,China,Year,2019,FALSE,1680801,1 680 801,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2019,FALSE,1726913,1 726 913,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2019,FALSE,1969919,1 969 919,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2019,FALSE,10631,10 631,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2019,FALSE,10994966,10 994 966,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,GUY,Guyana,Year,2019,FALSE,103836,103 836,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2019,FALSE,11340409,11 340 409,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2019,FALSE,11415,11 415,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2019,FALSE,11977117,11 977 117,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2019,FALSE,119975,119 975,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,IND,India,Year,2019,FALSE,134230349,134 230 349,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2019,FALSE,137473,137 473,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2019,FALSE,14341390,14 341 390,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,HND,Honduras,Year,2019,FALSE,142870,142 870,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2019,FALSE,143366,143 366,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2019,FALSE,155658,155 658,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2019,FALSE,16214258,16 214 258,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2019,FALSE,16564,16 564,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2019,FALSE,163188,163 188,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2019,FALSE,177742,177 742,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2019,FALSE,18116942,18 116 942,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COM,Comoros,Year,2019,FALSE,185045,185 045,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BLZ,Belize,Year,2019,FALSE,19731,19 731,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2019,FALSE,2010398,2 010 398,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2019,FALSE,2491516,2 491 516,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2019,FALSE,2779742,2 779 742,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2019,FALSE,2866191,2 866 191,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,SUR,Suriname,Year,2019,FALSE,20743,20 743,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2019,FALSE,20997372,20 997 372,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2019,FALSE,209830,209 830,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2019,FALSE,21180727,21 180 727,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2019,FALSE,214101,214 101,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2019,FALSE,214286,214 286,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2019,FALSE,217129,217 129,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PAN,Panama,Year,2019,FALSE,22171,22 171,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2019,FALSE,223998,223 998,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2019,FALSE,23531,23 531,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PER,Peru,Year,2019,FALSE,243240,243 240,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2019,FALSE,25756835,25 756 835,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,HTI,Haiti,Year,2019,FALSE,266675,266 675,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2019,FALSE,271754,271 754,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,ARG,Argentina,Year,2019,FALSE,2850,2850,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2019,FALSE,29489245,29 489 245,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2019,FALSE,295367,295 367,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,COL,Colombia,Year,2019,FALSE,295406,295 406,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2019,FALSE,3393641,3 393 641,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2019,FALSE,3531375,3 531 375,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2019,FALSE,3708802,3 708 802,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2019,FALSE,3733346,3 733 346,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2019,FALSE,3958782,3 958 782,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2019,FALSE,32067354,32 067 354,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2019,FALSE,332935,332 935,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,GEO,Georgia,Year,2019,FALSE,335,335,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2019,FALSE,34866,34 866,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2019,FALSE,343174,343 174,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2019,FALSE,4169146,4 169 146,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2019,FALSE,4743338,4 743 338,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2019,FALSE,414187,414 187,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2019,FALSE,427239,427 239,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2019,FALSE,452673,452 673,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2019,FALSE,455855,455 855,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2019,FALSE,46384,46 384,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2019,FALSE,461998,461 998,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2019,FALSE,497916,497 916,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2019,FALSE,5232430,5 232 430,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2019,FALSE,5258306,5 258 306,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,MEX,Mexico,Year,2019,FALSE,531471,531 471,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2019,FALSE,559,559,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2019,FALSE,567650,567 650,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,TUR,Türkiye,Year,2019,FALSE,59429,59 429,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2019,FALSE,594237,594 237,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2019,FALSE,596009,596 009,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2019,FALSE,6214192,6 214 192,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2019,FALSE,6708222,6 708 222,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2019,FALSE,602947,602 947,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2019,FALSE,669373,669 373,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2019,FALSE,7642050,7 642 050,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2019,FALSE,78903,78 903,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2019,FALSE,7867,7867,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2019,FALSE,8280575,8 280 575,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2019,FALSE,8829176,8 829 176,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2019,FALSE,8911133,8 911 133,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,DZA,Algeria,Year,2019,FALSE,8620,8620,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2019,FALSE,89992,89 992,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2019,FALSE,937053,937 053,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2019,FALSE,94656,94 656,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2018,FALSE,1015953,1 015 953,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2018,FALSE,1022022,1 022 022,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2018,FALSE,1070356,1 070 356,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2018,FALSE,1149897,1 149 897,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2018,FALSE,1240523,1 240 523,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2018,FALSE,1293392,1 293 392,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2018,FALSE,1300691,1 300 691,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2018,FALSE,1367986,1 367 986,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2018,FALSE,1513776,1 513 776,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2018,FALSE,1674897,1 674 897,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2018,FALSE,1700094,1 700 094,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BRA,Brazil,Year,2018,FALSE,1800465,1 800 465,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,CHN,China,Year,2018,FALSE,1904290,1 904 290,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2018,FALSE,1941489,1 941 489,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2018,FALSE,10055407,10 055 407,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,DZA,Algeria,Year,2018,FALSE,10081,10 081,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2018,FALSE,10285,10 285,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2018,FALSE,10870446,10 870 446,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,GUY,Guyana,Year,2018,FALSE,101346,101 346,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2018,FALSE,104800,104 800,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2018,FALSE,11513684,11 513 684,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COM,Comoros,Year,2018,FALSE,119592,119 592,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,IND,India,Year,2018,FALSE,124613482,124 613 482,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2018,FALSE,13979,13 979,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2018,FALSE,132775,132 775,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2018,FALSE,133498,133 498,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2018,FALSE,139938,139 938,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2018,FALSE,14931136,14 931 136,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,HND,Honduras,Year,2018,FALSE,142780,142 780,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2018,FALSE,144061,144 061,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2018,FALSE,15542218,15 542 218,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2018,FALSE,16623,16 623,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2018,FALSE,169883,169 883,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2018,FALSE,17111650,17 111 650,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BLZ,Belize,Year,2018,FALSE,17642,17 642,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2018,FALSE,18435472,18 435 472,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2018,FALSE,18791446,18 791 446,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,SUR,Suriname,Year,2018,FALSE,19836,19 836,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2018,FALSE,2096124,2 096 124,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2018,FALSE,2439906,2 439 906,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2018,FALSE,2608481,2 608 481,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2018,FALSE,2880743,2 880 743,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2018,FALSE,2895596,2 895 596,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,COL,Colombia,Year,2018,FALSE,208538,208 538,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2018,FALSE,22784288,22 784 288,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2018,FALSE,221121,221 121,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PAN,Panama,Year,2018,FALSE,23383,23 383,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2018,FALSE,23833694,23 833 694,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2018,FALSE,237995,237 995,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2018,FALSE,244523,244 523,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2018,FALSE,25381459,25 381 459,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2018,FALSE,253220,253 220,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2018,FALSE,253687,253 687,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2018,FALSE,256020,256 020,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2018,FALSE,26931,26 931,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2018,FALSE,282295,282 295,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,GEO,Georgia,Year,2018,FALSE,286,286,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,HTI,Haiti,Year,2018,FALSE,287522,287 522,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2018,FALSE,287984,287 984,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2018,FALSE,3009800,3 009 800,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2018,FALSE,3183758,3 183 758,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2018,FALSE,3725896,3 725 896,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PER,Peru,Year,2018,FALSE,304785,304 785,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,ARM,Armenia,Year,2018,FALSE,320,320,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,ARG,Argentina,Year,2018,FALSE,345,345,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2018,TRUE,358009,358 009,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2018,FALSE,385729,385 729,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2018,FALSE,394822,394 822,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2018,FALSE,4810919,4 810 919,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2018,FALSE,43533,43 533,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2018,FALSE,438833,438 833,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2018,FALSE,443997,443 997,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2018,FALSE,469640,469 640,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2018,FALSE,477914,477 914,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2018,FALSE,5036256,5 036 256,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2018,FALSE,5913799,5 913 799,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2018,FALSE,52216,52 216,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,MEX,Mexico,Year,2018,FALSE,548247,548 247,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2018,FALSE,576,576,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2018,FALSE,6405779,6 405 779,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2018,FALSE,6706148,6 706 148,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2018,FALSE,650616,650 616,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2018,FALSE,685704,685 704,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2018,FALSE,699130,699 130,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2018,FALSE,7226725,7 226 725,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2018,FALSE,706868,706 868,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2018,FALSE,7709,7709,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2018,FALSE,779312,779 312,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2018,FALSE,8734322,8 734 322,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2018,FALSE,831077,831 077,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2018,FALSE,85722,85 722,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2018,FALSE,9666424,9 666 424,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2018,FALSE,9760505,9 760 505,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2018,FALSE,9000,9000,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,TUR,Türkiye,Year,2018,FALSE,95877,95 877,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2018,FALSE,976482,976 482,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2017,FALSE,1046163,1 046 163,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2017,FALSE,1073998,1 073 998,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2017,FALSE,1104333,1 104 333,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2017,FALSE,1143511,1 143 511,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2017,FALSE,1144635,1 144 635,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2017,FALSE,1268976,1 268 976,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2017,FALSE,1432082,1 432 082,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2017,FALSE,1441679,1 441 679,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2017,FALSE,1533258,1 533 258,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2017,FALSE,1659798,1 659 798,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BRA,Brazil,Year,2017,FALSE,1696063,1 696 063,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2017,FALSE,1828301,1 828 301,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2017,FALSE,10530601,10 530 601,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2017,FALSE,10952323,10 952 323,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,GUY,Guyana,Year,2017,FALSE,100348,100 348,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2017,FALSE,11050353,11 050 353,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2017,FALSE,11186029,11 186 029,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2017,FALSE,115008,115 008,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,TUR,Türkiye,Year,2017,FALSE,115557,115 557,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2017,FALSE,12605,12 605,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2017,FALSE,120667,120 667,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,IND,India,Year,2017,FALSE,125977799,125 977 799,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2017,FALSE,13956707,13 956 707,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2017,FALSE,14811872,14 811 872,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,HND,Honduras,Year,2017,FALSE,148160,148 160,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2017,FALSE,15362146,15 362 146,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2017,FALSE,151697,151 697,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2017,FALSE,16573,16 573,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2017,FALSE,165640,165 640,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2017,FALSE,17463976,17 463 976,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2017,FALSE,189357,189 357,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2017,FALSE,19069870,19 069 870,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2017,FALSE,191284,191 284,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2017,FALSE,2034027,2 034 027,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2017,FALSE,2035693,2 035 693,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2017,FALSE,2134543,2 134 543,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,CHN,China,Year,2017,FALSE,2409286,2 409 286,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2017,FALSE,2610069,2 610 069,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2017,FALSE,2616257,2 616 257,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2017,FALSE,2705456,2 705 456,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2017,FALSE,2747984,2 747 984,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2017,FALSE,2935447,2 935 447,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2017,FALSE,2943595,2 943 595,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2017,FALSE,20276522,20 276 522,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2017,FALSE,205836,205 836,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,ARG,Argentina,Year,2017,FALSE,2114,2114,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2017,FALSE,212092,212 092,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2017,FALSE,214087,214 087,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,SUR,Suriname,Year,2017,FALSE,22302,22 302,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2017,FALSE,22319643,22 319 643,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2017,FALSE,226988,226 988,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2017,FALSE,228912,228 912,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COM,Comoros,Year,2017,FALSE,229445,229 445,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2017,FALSE,23195284,23 195 284,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2017,FALSE,234365,234 365,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2017,FALSE,238814,238 814,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2017,FALSE,25106551,25 106 551,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,COL,Colombia,Year,2017,FALSE,254380,254 380,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BLZ,Belize,Year,2017,FALSE,26995,26 995,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2017,FALSE,3368697,3 368 697,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2017,FALSE,3624885,3 624 885,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2017,FALSE,3691112,3 691 112,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2017,FALSE,306894,306 894,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2017,FALSE,3212,3212,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2017,FALSE,322916,322 916,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,HTI,Haiti,Year,2017,FALSE,330738,330 738,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2017,FALSE,34152,34 152,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,ARM,Armenia,Year,2017,FALSE,350,350,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2017,FALSE,372158,372 158,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2017,FALSE,373562,373 562,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2017,FALSE,376702,376 702,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PAN,Panama,Year,2017,FALSE,38270,38 270,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2017,FALSE,383397,383 397,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PER,Peru,Year,2017,FALSE,388699,388 699,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2017,FALSE,398759,398 759,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2017,FALSE,4013178,4 013 178,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,GEO,Georgia,Year,2017,FALSE,416,416,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2017,FALSE,498879,498 879,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2017,FALSE,5098975,5 098 975,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2017,FALSE,5391360,5 391 360,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2017,FALSE,515,515,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2017,FALSE,56257,56 257,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2017,FALSE,6471958,6 471 958,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2017,FALSE,616513,616 513,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,MEX,Mexico,Year,2017,FALSE,644174,644 174,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,DZA,Algeria,Year,2017,FALSE,6469,6469,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2017,FALSE,655112,655 112,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2017,FALSE,656212,656 212,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2017,FALSE,663132,663 132,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2017,FALSE,7262684,7 262 684,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2017,FALSE,70022,70 022,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2017,FALSE,75594,75 594,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2017,FALSE,8200987,8 200 987,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2017,FALSE,8014,8014,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2017,FALSE,84264,84 264,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2017,FALSE,8459,8459,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2017,FALSE,91217,91 217,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2017,FALSE,96612,96 612,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2017,FALSE,9680,9680,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2017,FALSE,986442,986 442,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2016,FALSE,1055368,1 055 368,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2016,FALSE,1090743,1 090 743,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2016,FALSE,1153108,1 153 108,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2016,FALSE,1217602,1 217 602,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2016,FALSE,1246456,1 246 456,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2016,FALSE,1267933,1 267 933,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BRA,Brazil,Year,2016,FALSE,1364912,1 364 912,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2016,FALSE,1457858,1 457 858,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2016,FALSE,1499675,1 499 675,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2016,FALSE,1503035,1 503 035,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2016,FALSE,1559054,1 559 054,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2016,FALSE,1619174,1 619 174,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2016,FALSE,114383,114 383,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COM,Comoros,Year,2016,FALSE,116692,116 692,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,GUY,Guyana,Year,2016,FALSE,117483,117 483,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2016,FALSE,118841,118 841,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2016,FALSE,12006793,12 006 793,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2016,FALSE,12986,12 986,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2016,FALSE,121409,121 409,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2016,FALSE,1249,1249,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2016,FALSE,13022128,13 022 128,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2016,FALSE,139798,139 798,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,TUR,Türkiye,Year,2016,FALSE,144499,144 499,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,IND,India,Year,2016,FALSE,144539608,144 539 608,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2016,FALSE,146705,146 705,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2016,FALSE,15742112,15 742 112,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2016,FALSE,155407,155 407,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2016,FALSE,16290286,16 290 286,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2016,FALSE,17490954,17 490 954,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2016,FALSE,17881657,17 881 657,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,HND,Honduras,Year,2016,FALSE,173651,173 651,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2016,FALSE,19492,19 492,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2016,FALSE,192980,192 980,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2016,FALSE,198766,198 766,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2016,FALSE,2032301,2 032 301,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2016,FALSE,2095095,2 095 095,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2016,FALSE,2184524,2 184 524,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2016,FALSE,2497326,2 497 326,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2016,FALSE,2567451,2 567 451,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2016,FALSE,2577029,2 577 029,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2016,FALSE,2996959,2 996 959,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BLZ,Belize,Year,2016,FALSE,20936,20 936,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2016,FALSE,202989,202 989,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2016,FALSE,205753,205 753,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2016,FALSE,205807,205 807,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2016,FALSE,23443227,23 443 227,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,SUR,Suriname,Year,2016,FALSE,23444,23 444,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2016,FALSE,24232,24 232,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2016,FALSE,240505,240 505,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2016,FALSE,251245,251 245,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2016,FALSE,27257784,27 257 784,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2016,FALSE,274881,274 881,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2016,FALSE,29113322,29 113 322,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,COL,Colombia,Year,2016,FALSE,296091,296 091,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2016,FALSE,298108,298 108,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2016,FALSE,3105390,3 105 390,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2016,FALSE,3185245,3 185 245,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,CHN,China,Year,2016,FALSE,3194915,3 194 915,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2016,FALSE,3778535,3 778 535,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2016,FALSE,308414,308 414,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2016,FALSE,311920,311 920,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,GEO,Georgia,Year,2016,FALSE,318,318,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2016,FALSE,318779,318 779,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2016,FALSE,3192,3192,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2016,FALSE,321848,321 848,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2016,FALSE,333535,333 535,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,ARG,Argentina,Year,2016,FALSE,3479,3479,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2016,FALSE,398429,398 429,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2016,FALSE,4199740,4 199 740,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2016,FALSE,4665318,4 665 318,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2016,FALSE,418125,418 125,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,HTI,Haiti,Year,2016,FALSE,459959,459 959,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,ARM,Armenia,Year,2016,FALSE,465,465,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2016,FALSE,465860,465 860,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2016,FALSE,466254,466 254,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2016,FALSE,5560136,5 560 136,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PAN,Panama,Year,2016,FALSE,50772,50 772,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2016,FALSE,5160,5160,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2016,FALSE,554415,554 415,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2016,FALSE,566043,566 043,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PER,Peru,Year,2016,FALSE,566230,566 230,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2016,FALSE,6611801,6 611 801,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2016,FALSE,62537,62 537,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2016,FALSE,63277,63 277,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,DZA,Algeria,Year,2016,FALSE,6628,6628,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2016,FALSE,673,673,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2016,FALSE,7347200,7 347 200,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2016,FALSE,7502174,7 502 174,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2016,FALSE,7649902,7 649 902,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2016,FALSE,797472,797 472,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,MEX,Mexico,Year,2016,FALSE,798568,798 568,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2016,FALSE,8216519,8 216 519,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2016,FALSE,81904,81 904,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2016,FALSE,85536,85 536,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2016,FALSE,852556,852 556,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2016,FALSE,874690,874 690,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2016,FALSE,8906,8906,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2016,FALSE,9239462,9 239 462,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2016,FALSE,9627862,9 627 862,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,GUF,French Guiana,Year,2016,FALSE,9430,9430,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2016,FALSE,993589,993 589,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2015,FALSE,1066470,1 066 470,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2015,FALSE,1157366,1 157 366,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2015,FALSE,1218246,1 218 246,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2015,FALSE,1254937,1 254 937,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2015,FALSE,1306700,1 306 700,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2015,FALSE,1421221,1 421 221,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2015,FALSE,1537430,1 537 430,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2015,FALSE,1567450,1 567 450,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BRA,Brazil,Year,2015,FALSE,1590403,1 590 403,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2015,FALSE,1641285,1 641 285,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2015,FALSE,1693630,1 693 630,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2015,FALSE,10586,10 586,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,GUF,French Guiana,Year,2015,FALSE,11558,11 558,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COM,Comoros,Year,2015,FALSE,117762,117 762,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2015,FALSE,119008,119 008,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,ARM,Armenia,Year,2015,FALSE,1213,1213,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2015,FALSE,1298,1298,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2015,FALSE,131654,131 654,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,GUY,Guyana,Year,2015,FALSE,132941,132 941,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,IND,India,Year,2015,FALSE,140841230,140 841 230,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2015,FALSE,15057398,15 057 398,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,SUR,Suriname,Year,2015,FALSE,15236,15 236,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2015,FALSE,15946366,15 946 366,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,HND,Honduras,Year,2015,FALSE,152730,152 730,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2015,FALSE,155782,155 782,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2015,FALSE,159167,159 167,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2015,FALSE,16037285,16 037 285,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2015,FALSE,16044,16 044,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2015,FALSE,17617219,17 617 219,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2015,FALSE,188341,188 341,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2015,FALSE,192044,192 044,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2015,FALSE,2337297,2 337 297,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2015,FALSE,2356048,2 356 048,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2015,FALSE,2386641,2 386 641,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2015,FALSE,2403783,2 403 783,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2015,FALSE,2657555,2 657 555,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2015,FALSE,2673662,2 673 662,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2015,FALSE,2733611,2 733 611,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2015,FALSE,20243915,20 243 915,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2015,FALSE,20829480,20 829 480,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2015,FALSE,207612,207 612,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,TUR,Türkiye,Year,2015,FALSE,211740,211 740,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2015,FALSE,22952246,22 952 246,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2015,FALSE,233362,233 362,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,BLZ,Belize,Year,2015,FALSE,26367,26 367,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2015,FALSE,261824,261 824,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2015,FALSE,284361,284 361,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2015,FALSE,285489,285 489,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,GEO,Georgia,Year,2015,FALSE,294,294,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2015,FALSE,295246,295 246,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2015,FALSE,3378923,3 378 923,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SSD,South Sudan,Year,2015,FALSE,3814332,3 814 332,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2015,FALSE,300592,300 592,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2015,FALSE,315010,315 010,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2015,FALSE,317257,317 257,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,COL,Colombia,Year,2015,FALSE,328434,328 434,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,HTI,Haiti,Year,2015,FALSE,330603,330 603,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2015,FALSE,332613,332 613,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,ARG,Argentina,Year,2015,FALSE,3862,3862,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,CHN,China,Year,2015,FALSE,4052616,4 052 616,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2015,FALSE,4101841,4 101 841,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2015,FALSE,4671411,4 671 411,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2015,FALSE,4692412,4 692 412,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2015,FALSE,405416,405 416,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2015,FALSE,413727,413 727,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2015,FALSE,43515,43 515,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2015,FALSE,5216344,5 216 344,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2015,FALSE,5987580,5 987 580,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2015,FALSE,6093114,6 093 114,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2015,FALSE,6839963,6 839 963,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2015,FALSE,604418,604 418,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2015,FALSE,610337,610 337,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2015,FALSE,625174,625 174,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PAN,Panama,Year,2015,FALSE,64511,64 511,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2015,FALSE,6620,6620,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2015,FALSE,6687,6687,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2015,FALSE,68058,68 058,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2015,FALSE,711680,711 680,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2015,FALSE,7373,7373,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2015,FALSE,74087,74 087,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2015,FALSE,75688,75 688,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2015,FALSE,786830,786 830,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2015,FALSE,8116962,8 116 962,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2015,FALSE,8518905,8 518 905,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2015,FALSE,8761333,8 761 333,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2015,FALSE,8943120,8 943 120,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2015,FALSE,800912,800 912,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,DZA,Algeria,Year,2015,FALSE,8000,8000,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2015,FALSE,83675,83 675,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2015,FALSE,84348,84 348,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,PER,Peru,Year,2015,FALSE,865980,865 980,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,MEX,Mexico,Year,2015,FALSE,867853,867 853,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2015,FALSE,89267,89 267,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2015,FALSE,9783385,9 783 385,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2015,FALSE,90818,90 818,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2015,FALSE,908082,908 082,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2015,FALSE,91007,91 007,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2015,FALSE,939964,939 964,EN,2024-12-10T05:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2015,FALSE,996660,996 660,EN,2024-12-10T05:00:00.000Z
